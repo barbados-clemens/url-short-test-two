@@ -9,5 +9,7 @@
       "default"
     ],
     "sharedGlobals": []
-  }
+  },
+  "nxCloudAccessToken": "NWE0MWZhOTktNjM3ZC00ZWYxLWJhNjAtNmRkNTk3ZDE4YTY5fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4203"
 }
